@@ -1,7 +1,7 @@
 # ciberseguranca
 Análise de Atividades e Comportamentos de Ataques Cibernéticos
 
-====================================================================================
+===========================================================================
 Este projeto de Análise de Atividades e Comportamentos de Ataques Cibernéticos contempla:
 
 Visão geral do projeto e objetivos analíticos;
